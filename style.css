@@ -1,0 +1,12 @@
+body {
+
+
+    background-image: url("backgroundbacteria.jfif");
+    
+  }
+
+  .jumbotron {
+    background-image: url("cartoonBacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
